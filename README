@@ -1,0 +1,27 @@
+This project is just for learn how react works under of hoods
+
+i start add babel and testing 
+
+after, add Webpack , add plugins and tested again
+
+until, finish project with react similar with  create-react-app 
+
+video that i got the tutorial 
+
+link: https://www.youtube.com/watch?v=y5B0MXmt428&list=WL&index=236&t=0s
+
+commands:
+
+#npm start: Webpack-dev-server
+
+run Webpack with hot Reload 
+use for development
+
+#npm run build: Webpack
+
+run Webpack for build
+generate the files in the dist dir 
+
+#npm run Devbabel:babel src --presets=@babel/preset-react --out-dir babel
+
+generate babel dir with react jxs files transpiled in js files 
